@@ -1,0 +1,11 @@
+# requirements.txt
+ultralytics
+opencv-python
+scikit-image
+matplotlib
+numpy
+PyWavelets
+scikit-learn
+pillow
+scipy
+tqdm
